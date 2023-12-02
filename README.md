@@ -1,5 +1,4 @@
-# 💫 About Me:
-- 🔭 I’m currently working on PagingSystem<br> - 🌱 I’m currently learning .NET<br>- 👯 I’m looking to collaborate on anything<br>- 📫 How to reach me: DM on Twitter
+# 💫 About Me: <br>- 🔭 I’m currently working on PagingSystem<br> - 🌱 I’m currently learning .NET<br>- 👯 I’m looking to collaborate on anything<br>- 📫 How to reach me: DM on Twitter
 
 
 ## 🌐 Socials:
