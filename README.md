@@ -1,6 +1,6 @@
 # 💫 About Me: 
-- 🔭 I’m currently working on PagingSystem
-- 🌱 I’m currently learning .NET
+- 🔭 I’m currently working on OurMemories [ASP.NET]
+- 🌱 I’m currently learning ASP.NET and WPF
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: DM on Twitter
 
