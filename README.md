@@ -1,6 +1,6 @@
 # 💫 About Me: 
-- 🔭 I’m currently working on OurMemories [ASP.NET]
-- 🌱 I’m currently learning ASP.NET and WPF
+- 🔭 I’m currently working on Thesis [Blazor Hybrid]
+- 🌱 I’m currently learning ASP.NET and Blazor Hybrid
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: krzysztofkurowski.main@gmail.com
 
