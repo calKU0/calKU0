@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">A a junior .NET developer based in Poland. I'm very dedicated and passionate about my work.</h3>
 
-- 🔭 I’m currently working on Thesis [StriveUp](https://github.com/calKU0/StriveUp)
+- 🔭 I’m currently working on multiple client projects: [TeachagroApiSync](https://github.com/calKU0/TeachagroApiSync), [JSAGROAllegroSync](https://github.com/calKU0/JSAGROAllegroSync) [RolgutApiSync](https://github.com/calKU0/RolgutApiSync)
 
 - 🌱 I’m currently learning **ASP.NET Core, Blazor**
 
